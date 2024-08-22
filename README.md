@@ -30,7 +30,7 @@ I am a graduate student from **I.K. Gujral Punjab Technical University** with a 
 ### Featured Projects
 
 - **[Javascript-Basics-to-Advance](https://github.com/mbishnoi29786/Javascript-Basics-to-Advance):** A comprehensive repository showcasing my journey through JavaScript, covering everything from fundamental concepts to advanced techniques.
-- **[Other Project Name]:** Brief description of another project.
+
 
 <hr/>
 
