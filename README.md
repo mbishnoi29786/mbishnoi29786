@@ -12,8 +12,6 @@ I am a graduate student from **I.K. Gujral Punjab Technical University** with a 
 - 👯 I’m looking forward to **collaborating on innovative projects**.
 - 🤝 I’m eager to explore **opportunities that challenge my skills and broaden my horizons**.
 
-<img alt="GIF" src="https://github.com/rahulvarma5297/rahulvarma5297/blob/main/hadder.gif?raw=true" width="500"/> 
-
 <hr/>
 
 ### Skills
@@ -25,13 +23,6 @@ I am a graduate student from **I.K. Gujral Punjab Technical University** with a 
   </a>
          
 </p>
-<hr/>
-
-### Featured Projects
-
-- **[Javascript-Basics-to-Advance](https://github.com/mbishnoi29786/Javascript-Basics-to-Advance):** A comprehensive repository showcasing my journey through JavaScript, covering everything from fundamental concepts to advanced techniques.
-
-
 <hr/>
 
 ### Socials
