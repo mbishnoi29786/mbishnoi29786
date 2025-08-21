@@ -1,42 +1,36 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Manish
-====================================================================================================================
+# Hi, I'm Manish 👋  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mbishnoi29786&label=Profile%20views&color=0e75b6&style=flat" alt="mbishnoi29786" /> </p>
+I'm a **Software Developer** and current Master's student at **Charles Darwin University, Sydney**, with experience building **real-time, scalable web applications**. My focus is on writing clean, production-ready code and solving complex problems through efficient system design.  
 
-I am a graduate student from **I.K. Gujral Punjab Technical University** with a passion for software development. My goal is to become an elite software developer, and I am constantly improving my skills in modern technologies. I have a strong foundation in **JavaScript** and specialize in **async JavaScript**, **event handling**, **MongoDB**, and **backend management**.
+---
 
-- 🌍 Based in **Ludhiana, India**
-- ✉️ You can contact me at [mbishnoi29786@gmail.com](mailto:mbishnoi29786@gmail.com)
-- 🧠 I am an **open-source enthusiast** and a skilled **MERN stack developer**.
-- 🌱 I’m currently focusing on **full-stack development** and contributing to open-source projects.
-- 👯 I’m looking forward to **collaborating on innovative projects**.
-- 🤝 I’m eager to explore **opportunities that challenge my skills and broaden my horizons**.
+## 🚀 Tech Stack
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=fff" />
+</div>
 
-<hr/>
+---
 
-### Skills
-<p align="center">
+## 📂 Featured Projects
+- **[Rule Engine](https://github.com/mbishnoi29786/custom-rule-engine)** – Custom rules evaluation system with MongoDB & Node.js.  
+- **[Let'sChat](https://github.com/mbishnoi29786/LetsChat)** – Real-time chat app with Flask-SocketIO & encrypted messaging. 
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,js,nodejs,expressjs,mongodb" />
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,postman" />
-  </a>
-         
-</p>
-<hr/>
+---
 
-### Socials
+## 📊 GitHub Stats
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=mbishnoi29786&show_icons=true&theme=default&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbishnoi29786&theme=default&hide_border=true" height="160" />
+</div>
 
-<p align="left"> 
-  <a href="https://www.github.com/mbishnoi29786" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-  <a href="https://www.linkedin.com/in/manish-bishnoi-8494491a0/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://leetcode.com/u/fKvSGD6Lo4/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/leetcode.svg" width="32" height="32" /></a>
-</p>
-<hr/>
+---
 
-### Badges
-
-<b>My GitHub Stats</b>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbishnoi29786&show_icons=true&locale=en&layout=compact" alt="mbishnoi29786" /></p>
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mbishnoi29786&show_icons=true&locale=en" alt="mbishnoi29786" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mbishnoi29786&" alt="mbishnoi29786" /></p>
+## 📫 Connect
+- Portfolio: *Coming soon*  
+- LinkedIn: [linkedin.com/in/manish-bishnoi](https://www.linkedin.com/in/manish-bishnoi-8494491a0/)  
+- Email: **manishbishnoi29786@gmail.com**  
