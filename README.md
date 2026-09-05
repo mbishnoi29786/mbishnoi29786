@@ -33,4 +33,4 @@ I'm a **Software Developer** and current Master's student at **Charles Darwin Un
 ## 📫 Connect
 - Portfolio: *Coming soon*  
 - LinkedIn: [linkedin.com/in/manish-bishnoi](https://www.linkedin.com/in/manish-bishnoi-8494491a0/)  
-- Email: **manishbishnoi29786@gmail.com**  
+- Email: **mbishnoi29786@gmail.com**  
