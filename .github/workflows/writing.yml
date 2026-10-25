@@ -1,0 +1,40 @@
+# Keeps the README's "Writing" list in sync with mbishnoi29786.com.
+# Publish a post on the site → it appears here by the next morning (or run it by hand).
+name: Update writing list
+
+on:
+  schedule:
+    - cron: '0 21 * * *' # 7–8 am in Sydney
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: writing
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+
+      - name: Rebuild the list from the RSS feed
+        run: node .github/scripts/update-writing.mjs
+
+      - name: Commit if anything changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No new writing."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update writing list from mbishnoi29786.com" -- README.md
+          git push
